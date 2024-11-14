@@ -9,7 +9,7 @@ link นี้เป็นลิงค์ที่รวบรวมชุดค
   - Part3: Analysis of pre-test score by rotating<br />
 <br />
 ไฟล์ pre-posttest.xlsx เป็นไฟล์รวมคะแนนแบบทดสอบของผู้เข้าร่วมประกอบด้วย 4 sheet<br />
-  - sheet1: Raw_data เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form<br />
-  - sheet2: score เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form<br />
-  - sheet3: score_part เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form<br />
-  - sheet4: groupby_sx เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form<br />
+  + sheet1: Raw_data เป็นข้อมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form<br />
+  + sheet2: score เป็นคะแนน pre-test และ post-test<br />
+  + sheet3: score_part เป็นคะแนน pre-test และ post-test จัดกลุ่มตามหัวข้อ<br />
+  + sheet4: groupby_sx เป็นคะแนน pre-test และ post-test จัดกลุ่มตามสถานะการผ่านศัลยกรรม<br />
