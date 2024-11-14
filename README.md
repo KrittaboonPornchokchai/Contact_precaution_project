@@ -8,7 +8,7 @@ link นี้เป็นลิงค์ที่รวบรวมชุดค
   - Part2: Analysis of pre and post-test scores by topic\
   - Part3: Analysis of pre-test score by rotating\
 ไฟล์ pre-posttest.xlsx เป็นไฟล์รวมคะแนนแบบทดสอบของผู้เข้าร่วมประกอบด้วย 4 sheet\
-  sheet1: Raw_data เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form\
-  sheet2: score เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form\
-  sheet3: score_part เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form\
-  sheet4: groupby_sx เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form\
+  - sheet1: Raw_data เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form\
+  - sheet2: score เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form\
+  - sheet3: score_part เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form\
+  - sheet4: groupby_sx เป็นข้แมูลดิบที่ได้จากการตอบแบบสอบถามผ่าน Google form\
